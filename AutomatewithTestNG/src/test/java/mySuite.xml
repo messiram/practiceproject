@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+    	<class name="com.testing.GoogleSearchTest"></class>
+    	<class name="com.testing.RegisterPage"></class>
+      	<class name="com.testing.SignIn"/>
+      	<class name="com.testing.AddtoCart"></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
